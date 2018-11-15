@@ -1,0 +1,1 @@
+@"c:\source\python\tutorial-1\scripts\python.exe" "c:\source\python\tutorial-1\Scripts\markdown_py" %*
